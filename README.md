@@ -1,2 +1,2 @@
 # Wealthfront
-Wealthfront Issues
+Tracking Wealthfront feature requests.
