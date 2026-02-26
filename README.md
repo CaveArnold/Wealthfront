@@ -1,4 +1,4 @@
-# Wealthfront 
+# [Wealthfront](https://www.wealthfront.com/)
 I opened my first small taxable account at Wealthfront April 2017 as an experiment to see how well the RoboAdvisor worked to automate my investments. The portfolios were designed by a financial board of which Burton Malkiel, whom I respect, is a member still. Six months later I was satisfied that the RoboAdvisor met my needs. I automated monthly deposits the Taxable account and opened and fully funded two Roth IRA's and two 529's.
 
 ## Investment Policies
